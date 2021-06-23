@@ -404,24 +404,30 @@
     .footer p {
         font-size: 12px;
     }
+    .default-btn {
+        padding: 10px 14px;
+        font-size: 11px;
+    }
+    .banner-content h2 {
+        font-size: 30px;
+    }
+    .video-left {
+        width: 100%;
+    }
+    .video-content-right {
+        width: 100%;
+        text-align: center;
+    }
+    .banner-bottom {
+        padding: 60px 0;
+    }
+    .section-title h1 {
+        font-size: 28px;
+    }
+    .pricing-table-section {
+        padding: 20px;
+    }
+    .section-title h2 {
+        font-size: 25px;
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
